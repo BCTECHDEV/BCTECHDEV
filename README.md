@@ -7,7 +7,7 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=JAVA) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C-black?style=flat-square&logo=C#)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C#)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
 
 
