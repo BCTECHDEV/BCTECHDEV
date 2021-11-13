@@ -2,7 +2,17 @@
 
 <h3 align="center">Begginer source Developer</h3>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="BCTECHDEV" /></p>
 
 
 
