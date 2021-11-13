@@ -14,6 +14,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="BCTECHDEV" /></p>
 
+<p align="center">
+    <a href="https://twitter.com/bahadircoskun97" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="bahadircoskun97"/></a>     
+    <a href="https://www.instagram.com/bahadircoskun97/" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" alt="Bahadir-Coskun"/></a>  
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BCTECHDEV&label=Profile%20views&color=0e75b6&style=flat" alt="BCTECHDEV" /> </p>
