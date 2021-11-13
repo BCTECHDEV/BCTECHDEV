@@ -9,6 +9,7 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C#)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
 
 
 
