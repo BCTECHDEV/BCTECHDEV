@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+
 
 
 
