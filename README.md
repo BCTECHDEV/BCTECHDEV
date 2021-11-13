@@ -11,7 +11,7 @@
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
