@@ -10,6 +10,7 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C#)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
 
 
 
