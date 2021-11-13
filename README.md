@@ -9,8 +9,9 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C#)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=Css3)
+![Bootstrap](https://img.shields.io/Bootstrap/-CSS-black?style=flat-square&logo=bootstrap)
 
 
 
