@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BCxTECHS
+- 👋 Hi, I’m @BCTECHDEV
 - 👀 I’m interested in perfection.
 - 🌱 I’m currently learning everything but little little.
 - 💞️ I’m looking to collaborate on Insiders.
