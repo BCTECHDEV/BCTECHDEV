@@ -15,7 +15,9 @@
 
 
 
+<!--- Hazır olduğunda açarsıın Baho
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BCTECHDEV&show_icons=true&locale=en&layout=compact" alt="BCTECHDEV" /></p>
+--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&locale=en" alt="BCTECHDEV" /></p>
 
