@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&locale=en" alt="BCTECHDEV" /></p>
 
-    
+<p>
     <a href="https://twitter.com/bahadircoskun97" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="bahadircoskun97"/></a>     
     <a href="https://www.instagram.com/bahadircoskun97/" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" alt="Bahadir-Coskun"/></a>  
 </p>
