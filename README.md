@@ -2,10 +2,10 @@
 
 <h3 align="center">Begginer Developer</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![JAVA1](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=JAVA) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
