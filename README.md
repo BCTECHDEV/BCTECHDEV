@@ -13,10 +13,11 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="BCTECHDEV" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BCTECHDEV&show_icons=true&locale=en&layout=compact" alt="BCTECHDEV" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikann&show_icons=true&locale=en&layout=compact" alt="marikann" /></p>
-<p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&locale=en" alt="BCTECHDEV" /></p>
+
+    
     <a href="https://twitter.com/bahadircoskun97" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="bahadircoskun97"/></a>     
     <a href="https://www.instagram.com/bahadircoskun97/" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" alt="Bahadir-Coskun"/></a>  
 </p>
