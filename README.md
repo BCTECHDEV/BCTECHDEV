@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahadır Coşkun</h1>
 
-<h3 align="center">Begginer source Developer</h3>
+<h3 align="center">Begginer Developer</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
