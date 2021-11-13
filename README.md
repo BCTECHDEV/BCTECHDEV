@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BCTECHDEV
-- 👀 I’m interested in creating.
-- 🌱 I’m currently learning Golang.
-- 📫 How to reach me: bahadircoskun1997@gmail.com
+<h1 align="center">Hi 👋, I'm Bahadır Coşkun</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadircoskun97&label=Profile%20views&color=0e75b6&style=flat" alt="bahadircoskun97" /> </p>
 
 <!---
 BCTECHDEV/BCTECHDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
