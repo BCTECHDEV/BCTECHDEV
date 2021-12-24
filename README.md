@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=Hibernate)
-![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=Maven)
+
 
 
 
