@@ -2,13 +2,12 @@
 
 <h3 align="center">Begginer Developer</h3>
 
+![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=.Net)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=JAVA) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C#)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
+![Sql](https://img.shields.io/badge/-Sql-black?style=flat-square&logo=Sql)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=Css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
@@ -19,12 +18,6 @@
 
 
 
-
-<!--- Hazır olduğunda açarsıın Baho
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BCTECHDEV&show_icons=true&locale=en&layout=compact" alt="BCTECHDEV" /></p>
---->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BCTECHDEV&show_icons=true&locale=en" alt="BCTECHDEV" /></p>
 
 
 <p>
